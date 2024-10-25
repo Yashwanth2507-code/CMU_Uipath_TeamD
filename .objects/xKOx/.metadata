@@ -1,0 +1,12 @@
+﻿{
+  "Name": "SAP",
+  "Type": "App",
+  "Id": "xKOxX0Jg00qeV_X3OoEV0g",
+  "Reference": "q0oI8ANxFU62fCGcj3cZQw/xKOxX0Jg00qeV_X3OoEV0g",
+  "Created": "2024-10-25T18:33:10.7431302Z",
+  "Updated": "2024-10-25T18:33:10.7431302Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

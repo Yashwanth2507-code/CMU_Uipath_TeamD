@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="kVmENl-2sE6_lZXKZhvICw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="1013, 262, 60, 60" FilePath="MSTeams_8wekyb3d8bbwe!MSTeams" Selector="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='CtrlVirtualCursorWin_00000163865A1820' /&gt;" Title="CtrlVirtualCursorWin_00000163865A1820" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="91c2007032724d322b777d6230381361.png" xmlns="">0f0G4wQLUtkSU-afoMQ3IQQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Sharing control bar  Microsoft Teams",
+  "Type": "Screen",
+  "Id": "VIdxUS3d60mq2NaCsmMy6g",
+  "Reference": "q0oI8ANxFU62fCGcj3cZQw/VIdxUS3d60mq2NaCsmMy6g",
+  "ParentRef": "q0oI8ANxFU62fCGcj3cZQw/h5rTc1E3j0eDBwJZjpMjJA",
+  "Created": "2024-10-25T18:31:58.5454489Z",
+  "Updated": "2024-10-25T18:31:58.5454489Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

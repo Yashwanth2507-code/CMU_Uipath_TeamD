@@ -1,0 +1,13 @@
+﻿{
+  "Name": "SAP",
+  "Type": "Screen",
+  "Id": "03pPDODUzEyHlN4cq99scQ",
+  "Reference": "q0oI8ANxFU62fCGcj3cZQw/03pPDODUzEyHlN4cq99scQ",
+  "ParentRef": "q0oI8ANxFU62fCGcj3cZQw/dp-1p8a-gE-WrYa2ClflAg",
+  "Created": "2024-10-25T18:33:10.8615283Z",
+  "Updated": "2024-10-25T18:33:10.8615283Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
